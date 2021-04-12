@@ -3,7 +3,7 @@ layout: default
 title: Configuration
 has_children: true
 parent: SP 4 Onderzoeksopzet
-nav_order: 3
+nav_order: 1
 has_toc: true
 ---
 
